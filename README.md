@@ -1,2 +1,2 @@
 # Q_reinforcement_learning
-A Sample for Q Reinforcement Learning in python.
+A Sample for Q lambda Reinforcement Learning in python.
